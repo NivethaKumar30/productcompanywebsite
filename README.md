@@ -446,6 +446,14 @@ PRODUCTS PAGE:
 
 ## OUTPUT:
 
+![7 000](https://user-images.githubusercontent.com/119559844/215577988-395df90b-0186-4dd6-aeb1-c43d20bb0328.png)
+
+![7 1](https://user-images.githubusercontent.com/119559844/215578078-36616b34-125d-4818-a34d-12791c34d690.png)
+
+![7 3](https://user-images.githubusercontent.com/119559844/215578153-d0b79549-15c2-463a-b704-ce52869206fc.png)
+
+
+
 ### Home Page:
 
 
