@@ -448,7 +448,6 @@ PRODUCTS PAGE:
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
 
 ## Result:
 
